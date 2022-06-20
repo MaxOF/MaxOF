@@ -38,8 +38,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-![](https://raw.githubusercontent.com/MaxOF/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MaxOF/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxOF&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MaxOF&show_icons=true" />
+</details>
 
 [linkedin]: https://www.linkedin.com/in/maxim-filippov-8b194022a/
 [telegram]: https://t.me/maxkaysarow
