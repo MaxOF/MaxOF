@@ -32,8 +32,6 @@
 <img align="left" alt="MUI" width="26px" src="https://user-images.githubusercontent.com/86874546/174590147-9c095e0a-e5eb-4b01-b7dd-d675d3d75ab6.png" />
 <img align="left" alt="sass" width="26px" src="https://user-images.githubusercontent.com/86874546/174590235-c86c4c40-c28f-4acc-b301-92dc016879c5.png" />
 <img align="left" alt="html5" width="26px" src="https://user-images.githubusercontent.com/86874546/174590344-f5839898-fe27-4b8d-83c5-9e6dcd629591.png" />
-
-
 <br />
 <br />
 
