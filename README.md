@@ -26,7 +26,7 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/86874546/174588229-b2f42445-4c72-4949-a4f5-51b677714754.png" />
 <img align="left" alt="Jest" width="26px" src="https://user-images.githubusercontent.com/86874546/174588390-3d61da8b-a8a5-4780-a56c-1abb198be7f9.png" />
 <img align="left" alt="Sequelize" width="26px" src="https://user-images.githubusercontent.com/86874546/174588607-688f1014-e9d4-4b0c-b906-48ae691d6766.png" />
-<img align="left" alt="webpack" width="78px" src="https://user-images.githubusercontent.com/86874546/174589908-76750e88-c97d-4657-a6fe-3e5e4c94af33.png" />
+<img align="left" alt="webpack" width="26px" src="https://user-images.githubusercontent.com/86874546/174591089-80e0000e-bafe-4274-b396-ffdbb53011ae.png" />
 <img align="left" alt="babel" width="78px" src="https://user-images.githubusercontent.com/86874546/174590535-0ceb332b-f881-445e-a6e2-b2f5066db2df.png" />
 <img align="left" alt="webstorm" width="26px" src="https://user-images.githubusercontent.com/86874546/174590065-846e2ea1-92f8-42f7-8195-eec819f3a6d5.png" />
 <img align="left" alt="MUI" width="26px" src="https://user-images.githubusercontent.com/86874546/174590147-9c095e0a-e5eb-4b01-b7dd-d675d3d75ab6.png" />
