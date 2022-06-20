@@ -36,9 +36,13 @@
 
 ### My projects:
 <!-- BLOG-POST-LIST:START -->
-- [Аналог Quizlet:](https://roman160784.github.io/cards/#/login)
-- [Аналог Trello:](https://maxof.github.io/todoLists/#/login)
-- [Аналог Social network](https://maxof.github.io/socialNetwork/#/login)
+- [Analogue of the Quizlet: TypeScript, React, Redux, MaterialUi, CSS-modules](https://roman160784.github.io/cards/#/login)
+- [Analogue of the Trello: TypeScript, React, Redux-Toolkit, MaterialUi, Jest, Storybook](https://maxof.github.io/todoLists/#/login)
+- [Analogue of the Social network: TypeScript, React, Redux](https://maxof.github.io/socialNetwork/#/login)
+
+I have other projects, also you can see it:
+
+
 
 <!-- BLOG-POST-LIST:END -->
 
