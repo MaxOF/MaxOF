@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vlad
+### Hi there 👋, I'm Max
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
