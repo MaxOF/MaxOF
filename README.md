@@ -40,7 +40,7 @@
 - [Analogue of the Trello: TypeScript, React, Redux-Toolkit, MaterialUi, Jest, Storybook](https://maxof.github.io/todoLists/#/login)
 - [Analogue of the Social network: TypeScript, React, Redux](https://maxof.github.io/socialNetwork/#/login)
 - [Table app: TypeScript, React, Redux, ExpressJs, NodeJs, PostgreSQL](https://github.com/MaxOF/table-app)
-- [My CV: TypeScript, React, SASS, CSS-modulesL](https://maxof.github.io/CV/)
+- [My CV: TypeScript, React, SASS, CSS-modules](https://maxof.github.io/CV/)
 
 
 <!-- BLOG-POST-LIST:END -->
