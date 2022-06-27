@@ -41,6 +41,7 @@
 - [Analogue of the Social network: TypeScript, React, Redux](https://maxof.github.io/socialNetwork/#/login)
 - [Table app: TypeScript, React, Redux, ExpressJs, NodeJs, PostgreSQL](https://github.com/MaxOF/table-app)
 - [My CV: TypeScript, React, SASS, CSS-modules](https://maxof.github.io/CV/)
+- [Online chat: TypeScript + Node js + Express js + React + socket.io + CRA](https://github.com/MaxOF/online-chat-app)
 
 
 <!-- BLOG-POST-LIST:END -->
