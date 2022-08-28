@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Max
 
-## I'm a FrontEnd Developer
+## I'm a Backend Developer
 - 💪 I like to write code
 - 🥅 I am constantly explore my borders in new technologies
 - ⚡ I have a strong passion for learning English and improve my skills in it
