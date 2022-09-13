@@ -30,20 +30,6 @@
 <br />
 
 
-### My projects:
-<!-- BLOG-POST-LIST:START -->
-- [Analogue of the Quizlet: TypeScript, React, Redux, MaterialUi, CSS-modules](https://roman160784.github.io/cards/#/login)
-- [Analogue of the Trello: TypeScript, React, Redux-Toolkit, MaterialUi, Jest, Storybook](https://maxof.github.io/todoLists/#/login)
-- [Analogue of the Social network: TypeScript, React, Redux](https://maxof.github.io/socialNetwork/#/login)
-- [Table app: TypeScript, React, Redux, ExpressJs, NodeJs, PostgreSQL](https://github.com/MaxOF/table-app)
-- [My CV: TypeScript, React, SASS, CSS-modules](https://maxof.github.io/CV/)
-- [Online chat: TypeScript + Node js + Express js + React + socket.io + CRA](https://github.com/MaxOF/online-chat-app)
-- [Layout Relvise: HTML5 + CSS](https://maxof.github.io/finance-consultancy/)
-
-
-<!-- BLOG-POST-LIST:END -->
-
-
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxOF&langs_count=8&layout=compact" />
