@@ -20,7 +20,7 @@
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/86874546/174585863-8aae9204-79f0-49c9-a3ba-bc2855d71511.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/86874546/174587720-9afca845-64db-4a9c-b449-d8535e06d1b1.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://user-images.githubusercontent.com/86874546/174588039-b8976284-cdd0-4cea-a999-dbd6d2f0344c.png" />
-<img align="left" alt="NestJs" width="26px" src="https://user-images.githubusercontent.com/86874546/189974650-aea3e404-3b99-4b09-9d9a-3c514584c17f.svg" />
+<img align="left" alt="NestJs" width="28px" src="https://user-images.githubusercontent.com/86874546/189974650-aea3e404-3b99-4b09-9d9a-3c514584c17f.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/86874546/174588229-b2f42445-4c72-4949-a4f5-51b677714754.png" />
 <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/86874546/174587848-c7249265-28c8-48bf-aed4-c17f26752de4.png" />
 <img align="left" alt="Redux" width="26px" src="https://user-images.githubusercontent.com/86874546/174587914-d455f807-e424-41c9-af59-ace036725ad3.png" />
